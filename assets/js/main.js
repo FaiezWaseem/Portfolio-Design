@@ -35,5 +35,6 @@ function typeWriter() {
   }
   
 }
-typeWriter();
+window.setInterval(typeWriter() , 1000);
+
 
